@@ -1,0 +1,71 @@
+*{
+text-align: center;    
+
+}
+.right-hand-side{
+    
+    text-align: center;
+    align-items: center;
+}
+
+.individual-RHS{
+    border: solid green .5px;
+    margin-top:1px; 
+    
+}
+
+.change-breakdown{
+    padding:3px;
+    border: .5px green solid;
+    height:40%;
+    text-align: left;
+    font-size:.85em;
+    background-color: lightsteelblue;
+    color:black;
+}
+
+.purchase-buttons{
+    margin: 7% 0% 0% 4%;
+}
+
+.other-buttons{
+    margin-top: 5%;
+  
+}
+
+.money-in{
+    margin-top:1%;
+    font-size:2em;
+    background-color: white;
+    color:black;
+    height: 20%;
+}
+
+.op7{
+    opacity:.7;
+}
+
+.number-fix{
+    position:absolute;
+    top:0;
+    left:0;
+}
+
+.lhs{
+    text-align: center;
+    font-size:2em;
+    background-color:white;
+    margin:10px;
+    height:200px;
+    color:black;
+    border:solid .5px green;
+    
+}
+
+.extra-style{
+    height:20%;
+}
+
+.item-display{
+    
+}

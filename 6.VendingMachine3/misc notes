@@ -1,0 +1,170 @@
+<div class="row">
+              <div id = "item1" class="col-sm-3 col-sm-offset-1" style="background-color:grey; height:200px; opacity:.7; margin-top: 20px">
+                
+                <div id="item-Number" style="background-color:black; height:20px;width:20px;text-align:center;position:absolute;top:0;left:0;color:white;"> 
+                   1
+                </div>
+                <div class="item-name" style="background-color:pink; margin-top: 30px; width: 100% ; height:30px">
+
+                </div>
+
+                <div class="item-price" style="background-color:pink; margin-top: 15px; width: 100% ; height:30px">
+
+                </div>
+
+                <div class="item-quant" style="background-color:pink; margin-top: 40px; width: 100% ; height:30px">
+
+                </div>
+
+              </div>
+
+              <div id = "item2" class="col-sm-3 col-sm-offset-1" style="background-color:blue; height:200px; opacity:.7; margin-top: 20px">
+                <div id="item-Number" style="background-color:black; height:20px;width:20px;text-align:center;position:absolute;top:0;left:0;color:white;"> 
+                  2
+                </div>
+                <div class="item-name" style="background-color:pink; margin-top: 30px; width: 100% ; height:30px">
+
+                </div>
+
+                <div class="item-price" style="background-color:pink; margin-top: 15px; width: 100% ; height:30px">
+
+                </div>
+
+                <div class="item-quant" style="background-color:pink; margin-top: 40px; width: 100% ; height:30px">
+
+                </div>
+              </div>
+
+              <div id = "item3" class="col-sm-3 col-sm-offset-1" style="background-color:gray; height:200px; opacity:.7; margin-top: 20px">
+                <div id="item-Number" style="background-color:black; height:20px;width:20px;text-align:center;position:absolute;top:0;left:0;color:white;"> 
+                      3
+                </div>
+                <div class="item-name" style="background-color:pink; margin-top: 30px; width: 100% ; height:30px">
+
+                </div>
+
+                <div class="item-price" style="background-color:pink; margin-top: 15px; width: 100% ; height:30px">
+
+                </div>
+
+                <div class="item-quant" style="background-color:pink; margin-top: 40px; width: 100% ; height:30px">
+
+                </div>
+              </div>
+            </div>
+
+            <div class="row">
+              <div  id = "item4" class="col-sm-3 col-sm-offset-1" style="background-color:grey; height:200px; opacity:.7 ; margin-top: 20px">
+                <div id="item-Number" style="background-color:black; height:20px;width:20px;text-align:center;position:absolute;top:0;left:0;color:white;"> 
+                    4
+                </div>  
+                <div class="item-name" style="background-color:pink; margin-top: 30px; width: 100% ; height:30px">
+
+                </div>
+      
+                <div class="item-price" style="background-color:pink; margin-top: 15px; width: 100% ; height:30px">
+      
+                </div>
+      
+                <div class="item-quant" style="background-color:pink; margin-top: 40px; width: 100% ; height:30px">
+      
+                </div>
+              </div>
+                
+              <div id = "item5" class="col-sm-3 col-sm-offset-1" style="background-color:blue; height:200px; opacity:.7 ; margin-top: 20px">
+                <div id="item-Number" style="background-color:black; height:20px;width:20px;text-align:center;position:absolute;top:0;left:0;color:white;"> 
+                      5
+                </div>
+                <div class="item-name" style="background-color:pink; margin-top: 30px; width: 100% ; height:30px">
+
+                </div>
+
+                <div class="item-price" style="background-color:pink; margin-top: 15px; width: 100% ; height:30px">
+
+                </div>
+
+                <div class="item-quant" style="background-color:pink; margin-top: 40px; width: 100% ; height:30px">
+
+                </div>
+              </div>
+                
+              <div id = "item6" class="col-sm-3 col-sm-offset-1" style="background-color:gray; height:200px; opacity:.7 ; margin-top: 20px">
+                <div id="item-Number" style="background-color:black; height:20px;width:20px;text-align:center;position:absolute;top:0;left:0;color:white;"> 
+                    6
+                </div>
+                <div class="item-name" style="background-color:pink; margin-top: 30px; width: 100% ; height:30px">
+
+                </div>
+
+                <div class="item-price" style="background-color:pink; margin-top: 15px; width: 100% ; height:30px">
+
+                </div>
+
+                <div class="item-quant" style="background-color:pink; margin-top: 40px; width: 100% ; height:30px">
+
+                </div>
+              </div>
+              </div>
+
+            <div class="row">
+              <div id = "item7" class="col-sm-3 col-sm-offset-1" style="background-color:grey; height:200px; opacity:.7 ; margin-top: 20px">
+                <div id="item-Number" style="background-color:black; height:20px;width:20px;text-align:center;position:absolute;top:0;left:0;color:white;"> 
+                      7
+                </div>
+                <div class="item-name" style="background-color:pink; margin-top: 30px; width: 100% ; height:30px">
+
+                </div>
+
+                <div class="item-price" style="background-color:pink; margin-top: 15px; width: 100% ; height:30px">
+
+                </div>
+
+                <div class="item-quant" style="background-color:pink; margin-top: 40px; width: 100% ; height:30px">
+
+                </div>
+              </div>
+  
+              <div id = "item8" class="col-sm-3 col-sm-offset-1" style="background-color:blue; height:200px; opacity:.7 ; margin-top: 20px">
+                <div id="item-Number" style="background-color:black; height:20px;width:20px;text-align:center;position:absolute;top:0;left:0;color:white;"> 
+                  8
+                </div>
+                <div class="item-name" style="background-color:pink; margin-top: 30px; width: 100% ; height:30px">
+
+                </div>
+
+                <div class="item-price" style="background-color:pink; margin-top: 15px; width: 100% ; height:30px">
+
+                </div>
+
+                <div class="item-quant" style="background-color:pink; margin-top: 40px; width: 100% ; height:30px">
+
+                </div>
+              </div>
+
+              <div id = "item9" class="col-sm-3 col-sm-offset-1" style="background-color:gray; height:200px; opacity:.7 ; margin-top: 20px">
+                <div id="item-Number" style="background-color:black; height:20px;width:20px;text-align:center;position:absolute;top:0;left:0;color:white;"> 
+                  9
+                </div>
+                <div class="item-name" style="background-color:pink; margin-top: 30px; width: 100% ; height:30px">
+
+                </div>
+
+                <div class="item-price" style="background-color:pink; margin-top: 15px; width: 100% ; height:30px">
+
+                </div>
+
+                <div class="item-quant" style="background-color:pink; margin-top: 40px; width: 100% ; height:30px">
+
+                </div>
+                
+              </div>
+              
+            </div>
+
+
+<button id="dollar" class = "col-sm-5 purchase-buttons"> + Dollar </button>
+<button id="quarter" class = "col-sm-5 purchase-buttons col-sm-offset-2"> + Quarter </button>
+<button id="dime" class = "col-sm-5 purchase-buttons"> + Dime </button>
+<button id="nickel" class = "col-sm-5 purchase-buttons col-sm-offset-2"> + Nickel </button>
+
+<button id="makePurchase" class = "col-sm-10 "> Make Purchase </button>
